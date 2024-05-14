@@ -118,9 +118,9 @@ As it is a backend project, not developed frontend part. For checking how the se
 ![plot](https://github.com/mrityu-pratap/Medical-Data-Extraction-Project/blob/main/backend/notebooks/postman.png)
 
 ## Result
-This backend functionality can be integrated into the Mr.X Data Analytics existing software and data can be extracted automatically. The extracted data may have some errors, the person who is performing the work has to correct it and submit the response.
+This backend functionality can be integrated into the Mr. X Data Analytics existing software and data can be extracted automatically. The extracted data may have some errors, the person who is performing the work has to correct it and submit the response.
 
 ## Benefits
-- Mr.X Data Analytics can save at least of 30 secs for each document. It is small amount of time when looking for one document, but cumulatively it can save a tremendous amount of time which can help the company to complete more documents within the given time and make more profit.
+- Mr. X Data Analytics can save at least of 30 secs for each document. It is small amount of time when looking for one document, but cumulatively it can save a tremendous amount of time which can help the company to complete more documents within the given time and make more profit.
 - The company doesn't have to hire extra people in the season time.
 - As it is a combination of automation and manual the error will be very much low.
