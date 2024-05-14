@@ -1,1 +1,2 @@
-# Medical-Data-Extraction-Project
+# OCR based Medical Data Extraction Project
+
