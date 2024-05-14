@@ -108,8 +108,8 @@ In this project test driven development methodology was used to develop the code
 ## FastApi
 Used FastAPI for hosting the server of the project. FastApi, as name suggest helps us to develop fast and some other advantages are,
 
-- In build Data validation
-- In build Documentation
+- Inbuilt Data validation
+- Inbuilt Documentation
 - Fast running and performance
 
 ## Postman
